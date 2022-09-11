@@ -4,4 +4,6 @@ import Signup from "./Signup";
 
 import GameDashboard from "./GameDashboard";
 
-export { Login, Signup, GameDashboard };
+// Terms & Conditions
+import Terms from "./Terms";
+export { Login, Signup, GameDashboard, Terms };
