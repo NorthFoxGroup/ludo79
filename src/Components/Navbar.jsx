@@ -6,7 +6,7 @@ import { NavLink } from "react-router-dom";
 const Navbar = () => {
   return (
     <>
-      <div className="px-20 py-3">
+      <div className="px-20 py-3 z-50 bg-white">
         <div className="grid grid-flow-col">
           <div className="">
             <p className="font-bold text-2xl text-accent">Ludo79.</p>
